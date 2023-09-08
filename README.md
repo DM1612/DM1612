@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DM1612
+- 👋 Hi, I’m @Dhanush Munagala
 - 👀 I’m interested in latest Technologies such as AI and ML
 - 🌱 I’m currently learning Advance Python for ML
 - 💞️ I’m looking to collaborate on AI projects
